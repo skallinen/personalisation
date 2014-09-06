@@ -12,3 +12,27 @@ Going to collect materials here related to a project where the Yle Internet Medi
 * Creating a implementation timeline.
 * Plan MVPs
 * Define evaluation criterias and iteration plans.
+* First demo 6th of October.
+
+### Criterias for problem definition
+* Although we are getting used to it as users - and sometimes perhaps frustrated - personalisation might still require a mind shift away from a pure mass media paradigm. Communication of the idea needs to keep this in mind.
+* A strong and clear case needs to be made why personalisation matters for Public Service Media, if it indeed matters.
+* Resulting material should work as a basis for decisions that needs to be made this year and affect the resource allocations and focus for work that will be done in the next few years.
+* A short condensed 10 minute demo of the results from this process will be done in 6th of October.
+
+### WS 1 Script
+0900-0915 Intro: Commitment. Method. Overview.
+0915-1100 Defining the problem
+1100-1140 Lunch
+1140-1300 Map existing knowledge
+1300-1350 Identify people to speak with
+1350-1400 Wrapping up the session
+
+### WS 2 Script
+0900-0915 Recap yesterday, short preview of the day ahead
+0915-1030 Decide research approaches - Individual User Interview, Group Interview, User observation, Diaries, Expert interviews
+1030-1130 Introduction to sacrifician concepts -method
+1130-1210 Lunch
+1210-1340 Develop interview guide
+1340-1350 Check that assignments are clear
+1350-1400 Wrapping up the session.
