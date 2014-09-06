@@ -1,4 +1,4 @@
-##Personalisation story
+##Personalisation as strategy
 Going to collect materials here related to a project where the Yle Internet Media Development team is working out the need for personalised publishing and the manner in how a public service company should approach the question. The project consists of a number of workshops during September 2014.
 
 ###Overview
